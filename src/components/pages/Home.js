@@ -1,12 +1,13 @@
 import React from 'react';
 import "./Home.css";
+import myself from './images/Who.jpg';
 export default function Home() {
   return (
     <div>
         <header>
           <h1>Yamil Chamochumbi</h1>
         </header>
-        <img id="hero" src="./images/who.jpg" alt="Me, Myself and I."/>
+        <img id="hero" src={myself} alt="Me, Myself and I."/>
         <h3 id="navInfo">Hello World!!!</h3>
         <div id="infoHouse">
           <p id="myInfo">Since I was a kid I have always dreamt about working with computers.

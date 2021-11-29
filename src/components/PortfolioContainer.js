@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import NavTabs from './NavTabs';
 import Home from './pages/Home';
 import Work from './pages/Work';
-import Blog from './pages/Blog';
 import Contact from './pages/Contact';
 
 export default function PortfolioContainer() {
@@ -15,9 +14,6 @@ export default function PortfolioContainer() {
     }
     if (currentPage === 'Work') {
       return <Work />;
-    }
-    if (currentPage === 'Blog') {
-      return <Blog />;
     }
     return <Contact />;
   };

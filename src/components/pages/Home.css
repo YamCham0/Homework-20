@@ -1,3 +1,11 @@
 * {
     background-color: rgb(192, 248, 255);
 }
+
+#hero {
+    display: block;
+    margin: auto;
+    max-height: 20em;
+    width: 35em;
+    border-radius: 33%;
+}
