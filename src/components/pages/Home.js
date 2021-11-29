@@ -14,7 +14,7 @@ export default function Home() {
             Passionate about everything I do and attentive to little details, so much that is annoying.
             Imaginary squirrels will attack me and I'm in constant war with my cat over the keyboard.<br />
             Would like to be employed by a company that will help me grow in within the industry.<br />
-            In search of new knowledge and experience.
+            In search of new knowledge and experiences.
           </p>
         </div>
       </div>

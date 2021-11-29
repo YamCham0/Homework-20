@@ -33,4 +33,4 @@ export default function Work() {
 // TODO
 // anchor tags linking the imgs to their respective Pages
 // add social links
-// the conact me tab should have a form to input user email and a message and on submit it should connect to my email
+// the contact me tab should have a form to input user email and a message and on submit it should connect to my email
