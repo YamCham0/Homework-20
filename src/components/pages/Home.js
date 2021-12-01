@@ -1,6 +1,13 @@
 import React from 'react';
 import "./Home.css";
 import myself from './images/Who.jpg';
+import { library } from '@fortawesome/fontawesome-svg-core';
+// import { fa-brands } from '@fortawesome/free-brands-svg-icons';
+// import { fa-github } from '@fortawesome/free-solid-svg-icons';
+
+
+
+
 export default function Home() {
   return (
     <div>
@@ -15,7 +22,16 @@ export default function Home() {
             Imaginary squirrels will attack me and I'm in constant war with my cat over the keyboard.<br />
             Would like to be employed by a company that will help me grow in within the industry.<br />
             In search of new knowledge and experiences.
+            
           </p>
+          {/* <i class="fab fa-github"></i>
+          <i class="fab fa-facebook"></i>
+          <i class="fa-brands fa-linkedin"></i>
+          <span style="font-size: 48px; color: Dodgerblue;">
+  <i class="fas fa-camera"></i>
+</span> */}
+
+
         </div>
       </div>
     )

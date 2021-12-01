@@ -15,7 +15,7 @@ const App = () =>
 <Contact/>
 </div>
 
-
+// TODO Footer with Social Media Icon Links
 export default App;
 
 
