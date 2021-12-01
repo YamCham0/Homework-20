@@ -25,7 +25,7 @@ export default function Work() {
         Any feedback is welcome to me and I find myself learning new ways and tricks on how to be a better version of myself. 
       </p>
       <Swiper navigation={true} className="mySwiper">
-        <SwiperSlide><img src={dynamite}/></SwiperSlide><SwiperSlide><img src={bookIt}/></SwiperSlide><SwiperSlide><img src={quiz}/></SwiperSlide><SwiperSlide><img src={passGen}/></SwiperSlide><SwiperSlide><img src={planner}/></SwiperSlide><SwiperSlide><img src={note}/></SwiperSlide><SwiperSlide><img src={budget}/></SwiperSlide><SwiperSlide><img src={fitness}/></SwiperSlide>
+        <SwiperSlide><a class="links" href="https://damienluzzo33.github.io/Project-1/" target="_blank"><img src={dynamite}/></a></SwiperSlide><SwiperSlide><a class="links" href="https://bookit-bookshelf.herokuapp.com/signup" target="_blank"><img src={bookIt}/></a></SwiperSlide><SwiperSlide><a class="links" href="https://yamcham0.github.io/Access-Denied/" target="_blank"><img src={quiz}/></a></SwiperSlide><SwiperSlide><a class="links" href="https://yamcham0.github.io/Test-your-Might/" target="_blank"><img src={passGen}/></a></SwiperSlide><SwiperSlide><a class="links" href="https://yamcham0.github.io/Once_upon_aTime/" target="_blank"><img src={planner}/></a></SwiperSlide><SwiperSlide><a class="links" href="https://no-ted.herokuapp.com/" target="_blank"><img src={note}/></a></SwiperSlide><SwiperSlide><a class="links" href="https://ex-wife.herokuapp.com/" target="_blank"><img src={budget}/></a></SwiperSlide><SwiperSlide><a class="links" href="https://warc-out.herokuapp.com/?id=619b22559d997c19a4f4a57a" target="_blank"><img src={fitness}/></a></SwiperSlide>
       </Swiper>
     </div>
   );
