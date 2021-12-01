@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
         <header>
-          <h1>Yamil Chamochumbi</h1>
+          <h1 id="myName">Yamil Chamochumbi</h1>
         </header>
         <img id="hero" src={myself} alt="Me, Myself and I."/>
         <h3 id="navInfo">Hello World!!!</h3>

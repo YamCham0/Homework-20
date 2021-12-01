@@ -1,11 +1,13 @@
-* {
-    background-color: rgb(192, 248, 255);
-}
+
 
 #hero {
     display: block;
     margin: auto;
-    max-height: 20em;
-    width: 35em;
+    height: 220px;
+    width: 220px;
     border-radius: 33%;
+}
+
+#myName {
+    text-align: center;
 }
