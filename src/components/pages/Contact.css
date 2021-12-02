@@ -1,6 +1,10 @@
 #contact-form {
+    margin-top: 20px;
+    /* position: absolute; */
+    float:right;
     max-width: 300px;
     max-height: 300px;
+
 };
 
 #theForm {
