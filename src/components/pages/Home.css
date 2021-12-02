@@ -11,3 +11,8 @@
 #myName {
     text-align: center;
 }
+
+#myInfo{
+    margin: 15px;
+    padding: 10px;
+}
