@@ -1,0 +1,26 @@
+.social-container {
+    background: #9ab8d0;
+    text-align: center;
+  }
+
+  a.social {
+    margin: 0 1rem;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+  a.social:hover {
+    transform: translateY(-6px);
+  }
+
+  a.Twitter {
+    color: #49a1eb;
+  }
+
+  a.Github {
+    color: #211F1F;
+  }
+
+  a.LinkedIn {
+    color: #2867B2;
+  }

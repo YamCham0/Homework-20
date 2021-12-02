@@ -22,6 +22,7 @@ export default function ContactUs() {
   return (
 
         <form id="contact-form" onSubmit={sendEmail}>
+          <h5>Contact me</h5>
           <div className="form-group">
             <label name="name">Name</label>
             <input type="text" className="form-control" nam/>

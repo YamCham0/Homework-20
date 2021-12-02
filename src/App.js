@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import PortfolioContainer from "./components/PortfolioContainer";
 import ContactUs from "./components/pages/Contact2";
 import Footer from "./components/pages/Footer";
-// import  "./App.css";
+import  "./App.css";
 
 
 
@@ -11,11 +11,13 @@ import Footer from "./components/pages/Footer";
 
 function App() {
     return (
-        <div>
-<PortfolioContainer />
-<ContactUs/>
-<Footer />
-</div>
+    <div className="page-container">
+    <div className="content-wrap">
+        <PortfolioContainer />
+        <ContactUs/>
+    </div>
+        <Footer />
+    </div>
     );
   }
 

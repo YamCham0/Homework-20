@@ -1,11 +1,12 @@
 import styled from 'styled-components';
 
 export const Box = styled.div`
-padding: 80px 60px;
+padding: 40px 20px;
 background: black;
-position: absolute;
+position: fixed;
 bottom: 0;
 width: 100%;
+height: 10%;
 
 
 @media (max-width: 1000px) {
@@ -43,6 +44,7 @@ grid-gap: 20px;
 
 export const FooterLink = styled.a`
 color: #fff;
+align-items: center;
 margin-bottom: 20px;
 font-size: 18px;
 text-decoration: none;
