@@ -1,6 +1,6 @@
 import React from 'react';
 import "./Home.css";
-import myself from './images/Who.jpg';
+import myself from './images/Who.png';
 
 
 
