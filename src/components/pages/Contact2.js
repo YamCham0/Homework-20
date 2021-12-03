@@ -23,20 +23,20 @@ export default function ContactUs() {
         <form id="contact-form" onSubmit={sendEmail}>
           <h5>Contact me</h5>
           <div className="form-group">
-            <label name="name">Name</label>
-            <input type="text" className="form-control" nam/>
+            <label htmlFor="name">Name</label>
+            <input type="text" className="form-control" name="name"/>
           </div>
           <div className="form-group">
-            <label name="email">Email address</label>
-            <input type="email" className="form-control" aria-describedby="emailHelp"/>
+            <label htmlFor="email">Email address</label>
+            <input type="email" className="form-control" aria-describedby="emailHelp" name="email"/>
           </div>
           <div className="form-group">
-            <label name="subject">subject</label>
-            <input type="text" className="form-control"/>
+            <label htmlFor="subject">subject</label>
+            <input type="text" className="form-control" name="subject"/>
           </div>
           <div className="form-group">
-            <label name="message">Message</label>
-            <textarea className="form-control" rows="5"/>
+            <label htmlFor="message">Message</label>
+            <textarea className="form-control" rows="5" name="message"/>
           </div>
           <button type="submit" className="btn btn-primary">Submit</button>
         </form>

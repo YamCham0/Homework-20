@@ -11,7 +11,7 @@ import "./Footer.css";
 export default function Footer() {
   return (
 
-    <div class="social-container">
+    <div className="social-container">
       <h5>Links</h5>
       <a href="https://www.github.com/YamCham0" target="_blank"
         className="Github social" rel="noopener noreferrer">
