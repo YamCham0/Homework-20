@@ -11,7 +11,7 @@ export default function Home() {
         <header>
           <h1 id="myName">Yamil Chamochumbi</h1>
         </header>
-        <img id="hero" src={myself} alt="Me, Myself and I."/>
+        <img id="hero" src={myself} alt="A picture of Yamil."/>
         <h3 id="navInfo">Hello World!!!</h3>
         <div id="infoHouse">
           <p id="myInfo">Since I was a kid I have always dreamt about working with computers.
