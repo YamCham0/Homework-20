@@ -1,5 +1,4 @@
-import React, { useRef } from 'react';
-import axios from 'axios';
+import React from 'react';
 import emailjs from 'emailjs-com';
 import "./Contact.css";
 
