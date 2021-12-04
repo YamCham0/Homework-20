@@ -18,4 +18,4 @@ export default function Skills() {
     };
 
     // skills icons?
-    
+    // SiJavascript DiJavascript1

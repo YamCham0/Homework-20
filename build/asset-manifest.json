@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.243ea9d3.chunk.css",
+    "main.js": "/static/js/main.6723d1dc.chunk.js",
+    "main.js.map": "/static/js/main.6723d1dc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1b90cea7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1b90cea7.js.map",
+    "static/css/2.9c3a7ee7.chunk.css": "/static/css/2.9c3a7ee7.chunk.css",
+    "static/js/2.704b96e3.chunk.js": "/static/js/2.704b96e3.chunk.js",
+    "static/js/2.704b96e3.chunk.js.map": "/static/js/2.704b96e3.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9c3a7ee7.chunk.css.map": "/static/css/2.9c3a7ee7.chunk.css.map",
+    "static/css/main.243ea9d3.chunk.css.map": "/static/css/main.243ea9d3.chunk.css.map",
+    "static/js/2.704b96e3.chunk.js.LICENSE.txt": "/static/js/2.704b96e3.chunk.js.LICENSE.txt",
+    "static/media/BookIt.907936a9.png": "/static/media/BookIt.907936a9.png",
+    "static/media/Budget.287d667d.png": "/static/media/Budget.287d667d.png",
+    "static/media/Dynamite.2dd06d8a.png": "/static/media/Dynamite.2dd06d8a.png",
+    "static/media/Fitness.d1a54545.png": "/static/media/Fitness.d1a54545.png",
+    "static/media/Note.f91dfcc3.png": "/static/media/Note.f91dfcc3.png",
+    "static/media/PassGen.67ff973c.png": "/static/media/PassGen.67ff973c.png",
+    "static/media/Planner.819f6e42.png": "/static/media/Planner.819f6e42.png",
+    "static/media/Quiz.a1841a1d.png": "/static/media/Quiz.a1841a1d.png",
+    "static/media/Who.c127f77c.png": "/static/media/Who.c127f77c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b90cea7.js",
+    "static/css/2.9c3a7ee7.chunk.css",
+    "static/js/2.704b96e3.chunk.js",
+    "static/css/main.243ea9d3.chunk.css",
+    "static/js/main.6723d1dc.chunk.js"
+  ]
+}
