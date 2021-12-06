@@ -1,17 +1,25 @@
 import React from 'react';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faHtml5, faReact, faJs, faNode
+  } from "@fortawesome/free-brands-svg-icons";
 import "./Skills.css";
 
 export default function Skills() {
     return (
       <div>
           <header>
-            <h1>Yamil Chamochumbi</h1>
+            <h1>Skills</h1>
           </header>
-            <p>Since I was a kid I have always dreamt about working with computers.
-              Passionate about everything I do and attentive to little details, so much that is annoying.
-              Imaginary squirrels will attack me and I'm in constant war with my cat over the keyboard.<br />
-              Would like to be employed by a company that will help me grow in within the industry.<br />
-              In search of new knowledge and experiences.
+          <div className="iCon fa-1x">
+          <FontAwesomeIcon className="iHtml5 skill" icon={faHtml5} size="3x" spin/>
+          <FontAwesomeIcon className="iReact skill" icon={faReact} size="3x" pulse/>
+          <FontAwesomeIcon className="iJs skill" icon={faJs} size="3x" spin/>
+          <FontAwesomeIcon className="iNode skill" icon={faNode} size="3x" pulse/>
+          </div>
+            <p>HTML5, CSS, JavaScript, jQuery, Responsive Design, Bootstrap, React.js,
+               Node.js, MongoDB, PHP frameworks like MySQL, Heroku, 
+               Security and Session Storage, and User Authentication.
             </p>
         </div>
       )

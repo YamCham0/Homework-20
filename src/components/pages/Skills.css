@@ -1,3 +1,24 @@
 body {
     background-color: #219ebc  !important;
 }
+
+.skill{
+    margin: 1rem;
+}
+
+.iHtml5{
+    color: #e34f26;
+}
+
+.iReact{
+    color: #61dbfb;
+}
+
+.iJs{
+    color: #efd81d;
+}
+
+.iNode{
+    color: #89be34;
+}
+
