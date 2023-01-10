@@ -18,7 +18,7 @@ function App() {
         <Footer />
     </div>
     );
-  }
+}
 
 // TODO Footer with Social Media Icon Links
 export default App;

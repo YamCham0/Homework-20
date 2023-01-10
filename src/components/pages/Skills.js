@@ -18,12 +18,9 @@ export default function Skills() {
           <FontAwesomeIcon className="iNode skill" icon={faNode} size="3x" pulse/>
           </div>
             <p>HTML5, CSS, JavaScript, jQuery, Responsive Design, Bootstrap, React.js,
-               Node.js, MongoDB, PHP frameworks like MySQL, Heroku, 
-               Security and Session Storage, and User Authentication.
+              Node.js, MongoDB, PHP frameworks like MySQL, Heroku, 
+              Security and Session Storage, and User Authentication.
             </p>
         </div>
       )
     };
-
-    // skills icons?
-    // SiJavascript DiJavascript1

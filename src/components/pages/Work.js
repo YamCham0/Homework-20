@@ -26,7 +26,7 @@ export default function Work() {
         -tap images to go to the project website-
       </p>
       <Swiper navigation={true} className="mySwiper">
-        <SwiperSlide><a class="links" href="https://damienluzzo33.github.io/Project-1/" target="_blank" rel="noopener noreferrer"><img src={dynamite} alt="Dynamite Recipes project" /></a></SwiperSlide>
+        <SwiperSlide><a class="links" href="https://damienluzzo33.github.io/dynamite-recipes/" target="_blank" rel="noopener noreferrer"><img src={dynamite} alt="Dynamite Recipes project" /></a></SwiperSlide>
         <SwiperSlide><a class="links" href="https://bookit-bookshelf.herokuapp.com/signup" target="_blank" rel="noopener noreferrer"><img src={bookIt} alt="BookIt project"/></a></SwiperSlide>
         <SwiperSlide><a class="links" href="https://yamcham0.github.io/Access-Denied/" target="_blank" rel="noopener noreferrer"><img src={quiz} alt="Quiz Game"/></a></SwiperSlide>
         <SwiperSlide><a class="links" href="https://yamcham0.github.io/Test-your-Might/" target="_blank" rel="noopener noreferrer"><img src={passGen} alt="password generator"/></a></SwiperSlide>
